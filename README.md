@@ -109,10 +109,10 @@ How to Run
 Project Structure
 Project2/
 
-├── project 2.xlsx
-├── Project2.ipynb
-├── README.md
-└── Output Charts/
+ project 2.xlsx
+ Project2.ipynb
+ README.md
+ Output Charts
  Author
 
 M Awais Ur Rahman
